@@ -1,0 +1,6 @@
+
+{
+  "name": "Les Héros de l'IA",
+  "description": "An interactive web portal for the 'Robot Explorers' book, offering a playful learning zone for students and a comprehensive resource hub for educators. The app features trilingual support, interactive quizzes, and downloadable materials, all without needing a database or login.",
+  "requestFramePermissions": []
+}
